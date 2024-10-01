@@ -20,7 +20,7 @@ Installation
 Clone this repository:
 bash
 Kodu kopyala
-git clone https://github.com/your_username/QrCodeMaker.git
+git clone https://github.com/enesinvn/QrCodeMaker.git
 Navigate to the project folder:
 bash
 Kodu kopyala
@@ -70,7 +70,7 @@ Kurulum
 Bu repoyu klonlayın:
 bash
 Kodu kopyala
-git clone https://github.com/kullanici_adiniz/QrCodeMaker.git
+git clone https://github.com/enesinvn/QrCodeMaker.git
 Proje klasörüne gidin:
 bash
 Kodu kopyala
